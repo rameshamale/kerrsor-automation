@@ -31,7 +31,7 @@ Chrome Browser
 Git
 ⚙️ Setup Steps
 Clone the repository
-git clone https://github.com/your-username/kerrsor-automation.git
+git clone https://github.com/your-rameshamale/kerrsor-automation.git
 cd kerrsor-automation
 mvn test
 View the test report :reports/index.html
